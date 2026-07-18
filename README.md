@@ -1,6 +1,6 @@
 # PRODIGY_DS_01
 
-## Task 01 - Data Visualization
+## Task 01 - Population Distribution Visualization
 
 ### Objective
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable.
@@ -11,15 +11,15 @@ Create a bar chart or histogram to visualize the distribution of a categorical o
 - Matplotlib
 - Seaborn
 
-## Project Workflow
-- Loaded dataset
-- Performed data exploration
-- Created data visualizations
-- Interpreted the results
+## Features
+- Data Loading
+- Data Visualization
+- Bar Chart
+- Histogram
 
 ## Files
-- task1.py
+- PRODIGY_DS_01.py
 - requirements.txt
 
 ## Author
-**Akarshit Srivastava**
+Akarshit Srivastava
